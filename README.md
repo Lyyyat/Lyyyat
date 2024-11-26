@@ -56,7 +56,7 @@
 
 ###
 
-<p align="center">⤿ Criatividade<br>⤿ Autodidata<br>⤿ Guitarrista</p>
+<p align="center">⤿ Criatividade<br>⤿ Autodidata<br>⤿ Aspirante a fotógrafa</p>
 
 ###
 
