@@ -99,6 +99,10 @@
   <a href="https://linktr.ee/lyjiminista" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=lyyat.anna@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+</div>
+
+###
 </div>
 
 ###
