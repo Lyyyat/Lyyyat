@@ -44,11 +44,11 @@
 
 ###
 
-<h5 align="center">Pessoais</h5>
+<h4 align="center">Pessoais</h5>
 
 ###
 
-<p align="center">⤿ Criatividade<br>⤿ Autodidata<br>⤿ nao sei</p>
+<p align="center">⤿ Criatividade<br>⤿ Autodidata<br>⤿ Guitarrista</p>
 
 ###
 
