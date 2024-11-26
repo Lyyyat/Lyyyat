@@ -46,7 +46,9 @@
 </div>
 
 ###
+<Br><p align="center">⤿Tenho conhecimento básico/intermediário em Js, Html, CSS, Python, GDScript.<br><br>⤿Iniciando na edição de fotos.</p><br>
 
+###
 ###
 
 <h4 align="center">Pessoais</h5>
