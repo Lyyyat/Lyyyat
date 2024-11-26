@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">⤿ Gosto de música, fotografia e fórmula 1.<br>⤿ Sou nível B1/B2 em inglês e estudo  coreano e russo.<br>⤿ Atualmente estou desenvolvendo um jogo sobre aves do Maranhão.</p>
+<p align="center">⤿ Desenvolvedora web.<br>⤿ Gosto de música, fotografia e fórmula 1.<br>⤿ Sou nível B1/B2 em inglês e estudo  coreano e russo.<br>⤿ Atualmente estou desenvolvendo um jogo sobre aves do Maranhão.</p>
 
 ###
 
@@ -46,7 +46,7 @@
 </div>
 
 ###
-<Br><p align="center">⤿Tenho conhecimento básico/intermediário em Js, Html, CSS, Python, GDScript.<br><br>⤿Iniciando na edição de fotos.</p><br>
+<Br><p align="center">⤿ Tenho conhecimento básico/intermediário em JS, HTML, CSS, Python, GDScript.<br><br>⤿ Iniciando na edição de fotos.</p><br>
 
 ###
 ###
