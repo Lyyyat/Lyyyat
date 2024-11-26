@@ -31,21 +31,21 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="70" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="70" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="40" alt="godot logo"  />
+  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="70" alt="godot logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="70" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="70" alt="wordpress logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="70" alt="adobephotoshop logo"  />
 </div>
 
 ###
