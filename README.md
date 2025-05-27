@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="center">Me chamo Anna Lyat, tenho 16 anos, sou estudante de informática no Instituto Federal do Maranhão - Campus Açailândia.</p>
+<p align="center">Me chamo Anna Lyat, tenho 17 anos, sou estudante de informática no Instituto Federal do Maranhão - Campus Açailândia.</p>
 
 ###
 
